@@ -27,4 +27,4 @@ Email: Workpulgarin@gmail.com
 
 
 Felipe Pulgarin en Linkedin
-<a href="https://www.linkedin.com/in/felipe-pulgarin-b988b21b0/"Linkedin</a>
+https://www.linkedin.com/in/felipe-pulgarin-b988b21b0/
